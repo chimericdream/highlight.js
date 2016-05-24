@@ -16,4 +16,11 @@ namespace Foo // namespace
         }
     }
 
+    public class WithParams<Bar, Baz> // class
+    {
+        public WithParams() // function
+        {
+        }
+    }
+
 }
